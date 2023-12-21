@@ -35,7 +35,7 @@ else
 fi
 
 
-echo "脚本由 www.eggyun.net 提供。专业的服务器提供商~"
+echo "脚本由 星智云www.eggyun.net/蟒盾云vvdun.com 提供。专业的服务器提供商~"
 echo -e "\033[33m 请输入我们的暗号~ \033[0m"&&read id
 if [ "$id" = "www.eggyun.net" ];then
    echo 正在处理，请耐心等待
